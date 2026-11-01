@@ -1,0 +1,406 @@
+{
+  "engine": "Kokoro-82M v1.0",
+  "locale": "en-US",
+  "voices": {
+    "You": "af_heart",
+    "Other": "am_michael"
+  },
+  "assets": {
+    "standup": {
+      "dialogue": {
+        "file": "standup-dialogue.mp3",
+        "duration": 14.92,
+        "sha256": "8f69befbee305ad9dc7cfd2182b9a9f7eb2920fae26bde1eec6035cfde5d0a67"
+      },
+      "phrase": {
+        "file": "standup-phrase.mp3",
+        "duration": 1.877,
+        "sha256": "1be1d575bebd90bec9e73760482b12481ef59bba5e0e254082efd7c9c7d76038"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "Alex",
+            "Morning! How is the client presentation coming along?"
+          ],
+          [
+            "You",
+            "It’s coming along well. I’ve finished the first draft, and I’m working on the slides today."
+          ],
+          [
+            "Alex",
+            "Great. Anything blocking you?"
+          ],
+          [
+            "You",
+            "I’m waiting on the latest sales figures. Could you help me follow up with the team?"
+          ]
+        ],
+        "phrase": "Could you help me follow up with the team?"
+      }
+    },
+    "coffee": {
+      "dialogue": {
+        "file": "coffee-dialogue.mp3",
+        "duration": 11.699,
+        "sha256": "8cc12b00f8809e87864878f089ffffc5dbc95af9565f3a136c83da9c049ac5e8"
+      },
+      "phrase": {
+        "file": "coffee-phrase.mp3",
+        "duration": 1.6,
+        "sha256": "fb73973b0bcf7cad0e7744b850d02128081533eaa1c3506e7bb5af9e4902cc1c"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "Sam",
+            "Hey! How was your weekend?"
+          ],
+          [
+            "You",
+            "Pretty good! I went for a hike near the lake. How about you?"
+          ],
+          [
+            "Sam",
+            "Nice! I just stayed in. The weather was a bit chilly."
+          ],
+          [
+            "You",
+            "For sure. Would you like to grab a coffee before our meeting?"
+          ]
+        ],
+        "phrase": "Would you like to grab a coffee?"
+      }
+    },
+    "clarify": {
+      "dialogue": {
+        "file": "clarify-dialogue.mp3",
+        "duration": 13.405,
+        "sha256": "5179f33feaf0d81e2da75a3b8d9b31824a55dee9ea7097f0af012f7db08fab58"
+      },
+      "phrase": {
+        "file": "clarify-phrase.mp3",
+        "duration": 1.323,
+        "sha256": "100932e993a5f8a8d4efa6c754d36464c07952a0acccd726a66e3a78a8874400"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "Taylor",
+            "We need to move the deadline up to Thursday."
+          ],
+          [
+            "You",
+            "Sorry, just to clarify, do you mean this Thursday or next Thursday?"
+          ],
+          [
+            "Taylor",
+            "This Thursday. The client needs it before the long weekend."
+          ],
+          [
+            "You",
+            "Got it. Could you walk me through the priorities?"
+          ]
+        ],
+        "phrase": "Could you walk me through that?"
+      }
+    },
+    "feedback": {
+      "dialogue": {
+        "file": "feedback-dialogue.mp3",
+        "duration": 12.531,
+        "sha256": "5676625552ec893ce987e79745558d1461ba8993e2414200b17cab4017f13fd8"
+      },
+      "phrase": {
+        "file": "feedback-phrase.mp3",
+        "duration": 2.667,
+        "sha256": "e434e1fecbd014b290d71f6df475afa47d6b297eb904ea10923e438d49f8203f"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "Jordan",
+            "I think we should launch all the features at once."
+          ],
+          [
+            "You",
+            "I see where you’re coming from. I wonder if we could start with a smaller release."
+          ],
+          [
+            "Jordan",
+            "What would be the benefit?"
+          ],
+          [
+            "You",
+            "That would give us time to gather feedback and reduce the risk."
+          ]
+        ],
+        "phrase": "I see where you’re coming from. I wonder if we could…"
+      }
+    },
+    "manager": {
+      "dialogue": {
+        "file": "manager-dialogue.mp3",
+        "duration": 12.403,
+        "sha256": "a2f222bb4fd3e66eb918f3a200659a905418bff1f122a7ded4a93da6057df257"
+      },
+      "phrase": {
+        "file": "manager-phrase.mp3",
+        "duration": 1.685,
+        "sha256": "f8e27db5b9715a9dcab7a8d1ae4cda25cd1c1247883b5445ddbf9f84420d233b"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "Morgan",
+            "Could you also take on the monthly report?"
+          ],
+          [
+            "You",
+            "I’d be happy to help. I’m currently working on two urgent tasks."
+          ],
+          [
+            "Morgan",
+            "What do you need from me?"
+          ],
+          [
+            "You",
+            "Could we go over the priorities so I can make sure I focus on the right things?"
+          ]
+        ],
+        "phrase": "Could we go over the priorities?"
+      }
+    },
+    "phone": {
+      "dialogue": {
+        "file": "phone-dialogue.mp3",
+        "duration": 14.536,
+        "sha256": "961a70ed292a2073129c27862db7880b8b068fcacfcff6ee90dc916d3e95b18c"
+      },
+      "phrase": {
+        "file": "phone-phrase.mp3",
+        "duration": 2.581,
+        "sha256": "bce498fa988bc898bfc940e509b722b650deee7e5e596c8f5bc48cfac81be5e3"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "Client",
+            "Hi, I’m calling about the proposal you sent over."
+          ],
+          [
+            "You",
+            "Thanks for getting in touch. What questions can I help you with?"
+          ],
+          [
+            "Client",
+            "Could you send us a breakdown of the costs?"
+          ],
+          [
+            "You",
+            "Absolutely. I’ll email you the details by the end of the day. Does that work for you?"
+          ]
+        ],
+        "phrase": "I’ll email you the details by the end of the day."
+      }
+    },
+    "doctor": {
+      "dialogue": {
+        "file": "doctor-dialogue.mp3",
+        "duration": 14.771,
+        "sha256": "175bc728a2b3aaa4e9a0c1d835d7c835ef8a151dea6fd8a067bf7f4dc81e085f"
+      },
+      "phrase": {
+        "file": "doctor-phrase.mp3",
+        "duration": 1.92,
+        "sha256": "b13701d260bee128dc52c2ff77ca5d3d1daa910d65d11297ca2888385d7902ca"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "Receptionist",
+            "Hi. Do you have an appointment?"
+          ],
+          [
+            "You",
+            "No, I don’t. I’ve had a sore throat for three days. Are you accepting walk-ins today?"
+          ],
+          [
+            "Receptionist",
+            "Yes. The wait is about forty minutes. Do you have your health card with you?"
+          ],
+          [
+            "You",
+            "Yes, here it is. Is there a form I need to fill out?"
+          ]
+        ],
+        "phrase": "I’ve had a sore throat for three days."
+      }
+    },
+    "grocery": {
+      "dialogue": {
+        "file": "grocery-dialogue.mp3",
+        "duration": 12.936,
+        "sha256": "60926876fbe5f4410f3bc5837250f4bddbd93725cb6ee41527e028b2736a8dd3"
+      },
+      "phrase": {
+        "file": "grocery-phrase.mp3",
+        "duration": 2.283,
+        "sha256": "6772500c3c694107cfdb6853a7feca1dfda55cda6601ceb457c2c5bce36ed243"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "You",
+            "Excuse me, where can I find oat milk?"
+          ],
+          [
+            "Staff",
+            "It’s in aisle five, next to the coffee."
+          ],
+          [
+            "You",
+            "Thanks! Is this two-for-six-dollar offer for members only?"
+          ],
+          [
+            "Staff",
+            "Yes, you’ll need a rewards card. Otherwise, it’s three fifty each."
+          ]
+        ],
+        "phrase": "Excuse me, where can I find oat milk?"
+      }
+    },
+    "rental": {
+      "dialogue": {
+        "file": "rental-dialogue.mp3",
+        "duration": 15.987,
+        "sha256": "d409f581edeedfe943ffcee6ba0b0c260f563cd61d4bd01b1ee9195ede4c45be"
+      },
+      "phrase": {
+        "file": "rental-phrase.mp3",
+        "duration": 1.6,
+        "sha256": "181f95859aca3a931ebd0eb8d375ebba92f8364fe40156ccf1125b62b392dc6a"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "You",
+            "Hi, the tap in my kitchen has been leaking since yesterday. Could someone come and take a look?"
+          ],
+          [
+            "Landlord",
+            "I can arrange a plumber for tomorrow afternoon. Will you be home?"
+          ],
+          [
+            "You",
+            "I’ll be home after three. Could we schedule it for then?"
+          ],
+          [
+            "Landlord",
+            "Sure. I’ll confirm the time with you this evening."
+          ]
+        ],
+        "phrase": "Could someone come and take a look?"
+      }
+    },
+    "restaurant": {
+      "dialogue": {
+        "file": "restaurant-dialogue.mp3",
+        "duration": 13.811,
+        "sha256": "f82ad2647566b8f7c149412ff78500941e3a3511acdb760c4aa5dc2d81357a75"
+      },
+      "phrase": {
+        "file": "restaurant-phrase.mp3",
+        "duration": 1.813,
+        "sha256": "0e8b317a30d45dbe3ead18d61bc4eeb951fe051401aca553ad35599a18439e4a"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "Staff",
+            "Hi! What can I get for you?"
+          ],
+          [
+            "You",
+            "Could I get the chicken sandwich, please? Does it come with a side?"
+          ],
+          [
+            "Staff",
+            "Yes, you can choose fries or a salad. Is that for here or to go?"
+          ],
+          [
+            "You",
+            "A salad, please. To go. Could I have the dressing on the side?"
+          ]
+        ],
+        "phrase": "Could I have the dressing on the side?"
+      }
+    },
+    "transit": {
+      "dialogue": {
+        "file": "transit-dialogue.mp3",
+        "duration": 13.469,
+        "sha256": "f8bc9cda916b9b2d5cdae6e8b7cbbb74aafe27ee68b28fa89ea16e03e62cc3c3"
+      },
+      "phrase": {
+        "file": "transit-phrase.mp3",
+        "duration": 2.283,
+        "sha256": "69f1c4609e8df5e6262d9057ea905faa559bde7c763a46a06bf49fb318393638"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "You",
+            "Excuse me, does this bus go to the public library?"
+          ],
+          [
+            "Driver",
+            "Not directly. Get off at the next stop and take the number twelve."
+          ],
+          [
+            "You",
+            "Thanks. Do I need to cross the street to catch it?"
+          ],
+          [
+            "Driver",
+            "Yes. The stop is just across from the pharmacy."
+          ]
+        ],
+        "phrase": "Does this bus go to the public library?"
+      }
+    },
+    "neighbour": {
+      "dialogue": {
+        "file": "neighbour-dialogue.mp3",
+        "duration": 12.616,
+        "sha256": "371e9b0b2aa38f8886a812e113f93492f2d481df8a56736991aca855ccde76a8"
+      },
+      "phrase": {
+        "file": "neighbour-phrase.mp3",
+        "duration": 2.432,
+        "sha256": "a9a8a87754f37037566d9d3f0290b9703894c161a19a1b27f2f77fa7cad70475"
+      },
+      "source": {
+        "dialogue": [
+          [
+            "Neighbour",
+            "Hi! Did you just move into the building?"
+          ],
+          [
+            "You",
+            "Yes, last weekend. I’m still getting settled. Nice to meet you!"
+          ],
+          [
+            "Neighbour",
+            "Welcome! Let me know if you need anything."
+          ],
+          [
+            "You",
+            "Thanks, that’s kind of you. Do you know a good coffee shop around here?"
+          ]
+        ],
+        "phrase": "I’m still getting settled. Nice to meet you!"
+      }
+    }
+  }
+}
